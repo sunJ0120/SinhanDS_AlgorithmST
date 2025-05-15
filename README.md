@@ -57,7 +57,7 @@
     <th>주제</th>
     <th>정리 자료</th>
   </tr>
-  <tr><td><div align="center">1</div></td><td>스택/큐</td></tr>
+  <tr><td><div align="center">1</div></td><td>스택</td></tr>
   <tr><td><div align="center">2</div></td><td>큐</td></tr>
   <tr><td><div align="center">3</div></td><td>힙(Heap)</td></tr>
   <tr><td><div align="center">4</div></td><td>해시</td></tr>
