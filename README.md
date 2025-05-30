@@ -1,5 +1,5 @@
 
-<h1>❤️‍🔥 신한 DS 알고리즘 스터디! with JAVA</h1>
+<h1>❤️‍🔥 알고리즘 스터디! with JAVA</h1>
 <div align="center">
   <img src = "https://github.com/user-attachments/assets/2e9d4adc-6dc3-4006-bb13-412309621954" width = 400px>
 </div>
