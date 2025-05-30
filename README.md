@@ -87,7 +87,7 @@
   <th>추가문제</th>
 </tr>
 <tr>
-  <td>1주</td>
+  <td>1주 [5/31 ~ 6/6]</td>
   <td><a href="https://www.acmicpc.net/problem/10773">10773 제로</td>
   <td><a href="https://www.acmicpc.net/problem/1874">1874 스택 수열</td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</td>
