@@ -6,8 +6,7 @@
 
 
 <h2>스터디 기간</h2>
-<div>2025.05.17 ~ </div>
-<div>현재는 혼자 진행하므로, 스터디 날짜는 미정으로 한다.</div>
+<div>2025.05.31 ~ </div>
 
 <h2>진행 방식</h2>
 <ul>
@@ -87,11 +86,43 @@
   <th>추가문제</th>
 </tr>
 <tr>
-  <td>1주 [5/31 ~ 6/6]</td>
+  <td>1주 [5/31 ~ 6/6] - 스택</td>
   <td><a href="https://www.acmicpc.net/problem/10773"></a>10773 제로</td>
   <td><a href="https://www.acmicpc.net/problem/1874"></a>1874 스택 수열</td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909"></a>올바른 괄호</td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/76502"></a>괄호 회전하기</td> 
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42584"></a>주식 가격</td> 
+</tr>
+<tr>
+  <td>2주 [6/7 ~ 6/13] - 큐</td>
+  <td><a href="https://www.acmicpc.net/problem/2164"></a>2164 카드2</td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586"></a>기능 개발</td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42583"></a>다리를 지나는 트럭</td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42626"></a>더 맵게</td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667"></a>두 큐 합 같게 만들기</td> 
+</tr>   
+<tr>
+  <td>3주 [6/14 ~ 6/20] - 힙</td>
+  <td><a href="https://www.acmicpc.net/problem/1927"></a>1927 최소힙</td>
+  <td><a href="https://www.acmicpc.net/problem/11279"></a>11279 최대 힙</td>
+  <td><a href="https://www.acmicpc.net/problem/11286"></a>11286 절댓값 힙</td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627"></a>디스크 컨트롤러</td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42628"></a>이중우선순위큐</td> 
+</tr>  
+<tr>
+  <td>5주 [6/21 ~ 6/27] - 해시</td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576"></a>완주하지 못한 선수</td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845"></a>폰켓몬</td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577"></a>전화번호 목록</td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578"></a>의상</td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579"></a>베스트앨범</td> 
+</tr>
+ <tr>
+  <td>5주 [6/28 ~ 7/4] - 재귀</td>
+  <td><a href="https://www.acmicpc.net/problem/25501"></a>25501 재귀의 귀재</td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12946"></a>하노이의 탑</td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68936"></a>쿼드압축 후 개수 세기</td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578"></a>의상</td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579"></a>베스트앨범</td> 
 </tr>
 </div>
