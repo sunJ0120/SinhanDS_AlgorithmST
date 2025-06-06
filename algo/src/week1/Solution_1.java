@@ -3,7 +3,6 @@ package week1;
 import java.util.Stack;
 
 public class Solution_1 {
-
     public static void main(String[] args) {
         //이거 모든 입력을 한번에 체크하려면...
         String[] stList = {"()()","(())()",")()(","(()(","(()))"};
