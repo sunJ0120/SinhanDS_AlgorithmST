@@ -86,11 +86,11 @@
 </tr>
 <tr>
   <td>1주 [6/1 ~ 6/8] - 스택</td>
-  <td><a href="https://www.acmicpc.net/problem/10773">10773 제로</a></td>
-  <td><a href="https://www.acmicpc.net/problem/1874">1874 스택 수열</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">올바른 괄호</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/76502">괄호 회전하기</a></td> 
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42584">주식 가격</a></td> 
+  <td><a href="https://www.acmicpc.net/problem/10773">✅ 10773 제로</a></td>
+  <td><a href="https://www.acmicpc.net/problem/1874">✅ 1874 스택 수열</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">✅ 올바른 괄호</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/76502">🔃 괄호 회전하기</a></td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42584">❌ 주식 가격</a></td> 
 </tr>
 <tr>
   <td>2주 [6/9 ~ 6/15] - 큐</td>
