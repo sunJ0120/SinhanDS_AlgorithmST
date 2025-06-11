@@ -3,6 +3,9 @@ package week2;
 import java.util.Arrays;
 import java.util.Stack;
 
+/*
+모노톤 스택을 이용해서, 스택 안에 내림차순을 만들어서 해결한다.
+ */
 public class Solution_1 {
     public static void main(String[] args) {
 
