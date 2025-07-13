@@ -58,7 +58,19 @@
   </tr>
   <tr><td><div align="center">1</div></td><td>스택</td></tr>
   <tr><td><div align="center">2</div></td><td>큐</td></tr>
-  <tr><td><div align="center">3</div></td><td>힙(Heap)</td></tr>
+  <tr>
+    <td>
+      <div align="center">3</div>
+    </td>
+    <td>
+      힙(Heap) & 우선순위 큐
+    </td>
+    <td>
+      <a href="https://humdrum-lobster-dc7.notion.site/09-22b5ce675819801a967eded566afe066?source=copy_link">
+        09. 우선순위 큐
+      </a>
+    </td>
+  </tr>
   <tr><td><div align="center">4</div></td><td>해시</td></tr>
   <tr><td><div align="center">5</div></td><td>재귀&정렬</td></tr>
   <tr><td><div align="center">6</div></td><td>완전탐색(브루트포스)</td></tr>
@@ -82,33 +94,34 @@
   <th>2</th>
   <th>3</th>
   <th>4</th>
-  <th>추가문제</th>
 </tr>
 <tr>
   <td>1주 [6/1 ~ 6/8] - 스택</td>
   <td><a href="https://www.acmicpc.net/problem/10773">✅ 10773 제로</a></td>
   <td><a href="https://www.acmicpc.net/problem/1874">✅ 1874 스택 수열</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909">✅ 올바른 괄호</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/76502">🔃 괄호 회전하기</a></td> 
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42584">❌ 주식 가격</a></td> 
 </tr>
 <tr>
   <td>2주 [6/9 ~ 6/15] - 큐</td>
   <td><a href="https://www.acmicpc.net/problem/2164">✅ 2164 카드2</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586">✅ 기능 개발</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42583">✅ 다리를 지나는 트럭</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42626">더 맵게</a></td> 
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667">두 큐 합 같게 만들기</a></td> 
 </tr>   
 <tr>
   <td>3주 [7/7 ~ 7/13] - 힙</td>
   <td><a href="https://www.acmicpc.net/problem/1927">✅ 1927 최소힙</a></td>
   <td><a href="https://www.acmicpc.net/problem/11279">✅ 11279 최대 힙</a></td>
-  <td><a href="https://www.acmicpc.net/problem/11286">11286 절댓값 힙</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627">디스크 컨트롤러</a></td> 
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42628">이중우선순위큐</a></td> 
+  <td><a href="https://www.acmicpc.net/problem/11286">✅ 11286 절댓값 힙</a></td>
 </tr>  
 <tr>
+  <td>4주 [7/14 ~ 7/20] - 힙2</td>
+  <td><a href="https://www.acmicpc.net/problem/11286">11286 절댓값 힙 복습</a></td>
+  <td><a href="https://www.acmicpc.net/problem/1715">1715 카드 정렬하기</a></td>
+  <td><a href="https://www.acmicpc.net/problem/11000">11000 강의실 배정</a></td>
+  <td><a href="https://www.acmicpc.net/problem/7662">7662 이중우선순위큐</a></td> 
+</tr>  
+  </table>
+<!-- <tr>
   <td>4주 [7/14 ~ 7/20] - 해시</td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576">완주하지 못한 선수</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">폰켓몬</a></td>
@@ -208,5 +221,5 @@
 <tr>
   <td>17주 [] - 백트래킹</td>
   <td><a href="https://www.acmicpc.net/problem/9663">9663 N-Queen</a></td>
-</tr>
+</tr> -->
 </div>
