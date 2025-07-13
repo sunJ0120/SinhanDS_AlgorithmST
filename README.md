@@ -102,8 +102,8 @@
 </tr>   
 <tr>
   <td>3주 [7/7 ~ 7/13] - 힙</td>
-  <td><a href="https://www.acmicpc.net/problem/1927">1927✅ 최소힙</a></td>
-  <td><a href="https://www.acmicpc.net/problem/11279">11279 최대 힙</a></td>
+  <td><a href="https://www.acmicpc.net/problem/1927">✅ 1927 최소힙</a></td>
+  <td><a href="https://www.acmicpc.net/problem/11279">✅ 11279 최대 힙</a></td>
   <td><a href="https://www.acmicpc.net/problem/11286">11286 절댓값 힙</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627">디스크 컨트롤러</a></td> 
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42628">이중우선순위큐</a></td> 
