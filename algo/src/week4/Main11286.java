@@ -8,7 +8,7 @@ import java.io.*;
  * 우선순위의 기준이 절댓값이 작은 값 or 같을 경우 원래 값이 작은 값의 힙을 구현하는 문제이다.
  */
 public class Main11286 {
-    static int heapSize = 1;
+    static int heapSize = 0; //heapSize를 index와 동일하다고 봐야 한다.
     static int[] heap;
 
     //절댓값의 경우, 크기 대소를 비교하는 과정이 너무 복잡해서 새로 method를 하나 더 빼기로 했다.
@@ -23,40 +23,53 @@ public class Main11286 {
         }
     }
 
+    /*
+    삭제 연산 과정
+        1. root 값을 빼둔다.
+        2. 단말 값을 저장한다.
+        3. parent와 child를 각각 1 & 2로 한다.
+        4. child중에서 가장 절댓값이 작은걸 찾아서, 있으면 바꾼다.
+        5. child랑 단말값 비교한다. -> 단말값이 더 작아서 안 바꿔도 된다면 끝
+        6. 바꿔야 한다면, child에 있는 것을 부모로 올리고 child 내린다.
+        7. 부모에 해당하는 것에 단말 값 저장한다.
+     */
     public static int deleteHeap(){
-        if(heapSize <= 1){
+        if(heapSize == 0){
             return 0; //삭제할 것이 없는 경우
         }
 
         int removed = heap[1];
+        int leaf = heap[heapSize--]; //단말값
+
         int parentInd = 1;
         int childInd = 2;
-        int num = heap[heapSize-1]; //새로 root로 올라온 끝 수
 
-        while(parentInd < heapSize-1){
-            //child중에 가장 우선순위 높은 것을 구하기 위함이다.
-            if(heap[childInd+1] != 0 && !isCompareStop(heap[childInd], heap[childInd+1])){
-                childInd += 1; //오른쪽 자식으로 한다.
+        // ⭐ 자식이 존재하는 동안만 진행해야 한다!!! -> parentInd = childInd; 그래야 여기서 정확하게 계산하고 멈출 수 있다.
+        // 사이즈가 이미 하나 줄어든 것이므로 <= heapSize 이렇게만 진행해준다.
+        while(childInd <= heapSize){
+            if(childInd < heapSize && !isCompareStop(heap[childInd], heap[childInd+1])){
+                childInd++; //바꿔야 한다.
             }
 
-            if(!isCompareStop(num, heap[childInd])){
-                heap[parentInd] = heap[childInd];
-                parentInd = childInd; //해당 child의 ind를 parent로 두고 내려간다.
-                childInd = parentInd*2;
-            }else{ //바꿀 필요 없으면 자리를 찾은 것이다
+            //stop 조건
+            if(isCompareStop(leaf, heap[childInd])){
                 break;
             }
-        }
-        heap[parentInd] = num; //내 자리 찾아서 이동한다.
 
-        heapSize--;
-        return removed; //가장 크던거 출력한다.
+            //바꿔야한다.
+            heap[parentInd] = heap[childInd];
+            parentInd = childInd;
+            childInd *= 2; //내려가기
+        }
+        heap[parentInd] = leaf; //자리 찾기
+
+        return removed;
     }
 
     public static void insertHeap(int num){
         //끝단에 추가한다.
-        heap[heapSize] = num;
-        int childInd = heapSize++;
+        heap[++heapSize] = num;
+        int childInd = heapSize;
 
         //insert, delete는 방향이 반대기 때문에 isCompareStop을 반대로 체크해야 한다.
         while(childInd > 1 && !isCompareStop(heap[childInd/2], num)){
