@@ -35,48 +35,32 @@ void insert_max_heap(HeapType* h, element item) {
 //현재 요소의 개수가 heap_size인 히프 h에서 최대 값을 삭제한다. (최소힙일 경우는 최솟값)
 
 element delete_max_heap(HeapType* h){
-    element removed; //삭제할 루트 (최댓값)
-    element tmp; //마지막 노드를 임시 저장
     int parent, child;
+    element item, temp;
 
-    if(h->heap_size == 0){
-        //힙이 비어있으면 에러처리한다.
-        removed.key = 0;
-        return removed;
-    }
+    item = h->heap[1];
+    temp = h->heap[(h->heap_size)--];
 
-    // 루트 노드를 저장
-    removed = h->heap[1];
-
-    // 마지막 노드를 tmp에 저장하고, heap_size 감소시킨다.
-    tmp = h->heap[h->heap_size--]; 
-
-    // 루트에서부터 내려가면서 자리를 찾는다.
-    parent = 1; //root 부터 시작
-    child = 2; //왼쪽부터 시작해서 가장 큰 child 찾아야 함,
+    parent = 1;
+    child = 2;
 
     while(child <= h->heap_size){
-        //오른쪽 자식이 더 클 경우, child를 오른쪽으로 이동한다.
-        if(child < h->heap_size && h->heap[child].key < h->heap[child + 1].key){
+        //현재 노드의 자식노드 중 좀 더 큰 자식노드를 찾는다.
+        //child < h->heap_size 여야 옆에 노드가 존재하는 것이므로 이렇게 잡아둔다.
+        if((child < h->heap_size) && (h->heap[child].key) < h->heap[child+1].key){
             child++;
         }
 
-        // tmp가 자식보다 클 경우, tmp는 그 parent 자리로 고정한다.
-        if(tmp.key >= h->heap[child].key){
+        //root에 올려둔 것이, 지금 child에 해당하는 것보다 클 경우
+        if(temp.key >= h->heap[child].key){
             break;
         }
 
-        //자식 노드를 한 단계 위로 끌어올린다. root 빠졌으니깐
+        //바꿔야 한다. 즉, child에 있는 것을 parent로 swap 해야 한다.
         h->heap[parent] = h->heap[child];
-
-        //비교 했으니 이제 내려가기
         parent = child;
-        child *= 2; //다음 단계로 내려간다.
+        child *= 2; //아래로 내려간다.
     }
-
-    //tmp를 최종 위치에 저장한다.
-    h->heap[parent] = tmp;
-
-    //삭제된 최종 리스트를 반환한다.
-    return removed;
+    h->heap[parent] = temp;
+    return item; //root에 해당하는 것을 return 한다.
 }

@@ -10,3 +10,18 @@ build/
 *.DS_Store
 .vscode/
 .idea/
+
+# VS Code workspace 파일 (사용자별 워크스페이스 설정)
+*.code-workspace
+
+# VS Code Local History 확장 플러그인
+.history/
+
+# VS Code Extension 테스트용 폴더  
+.vscode-test/
+
+# (선택) .vscode 전체를 무시하되, 팀에서 공유할 만한 설정만 풀 리포지토리에 남기고 싶다면…
+# .vscode/*
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
