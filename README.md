@@ -115,8 +115,8 @@
 </tr>  
 <tr>
   <td>4주 [7/14 ~ 7/20] - 힙2</td>
-  <td><a href="https://www.acmicpc.net/problem/11286">11286 절댓값 힙 복습</a></td>
-  <td><a href="https://www.acmicpc.net/problem/1715">1715 카드 정렬하기</a></td>
+  <td><a href="https://www.acmicpc.net/problem/11286">✅ 11286 절댓값 힙 복습</a></td>
+  <td><a href="https://www.acmicpc.net/problem/1715">✅ 1715 카드 정렬하기</a></td>
   <td><a href="https://www.acmicpc.net/problem/11000">11000 강의실 배정</a></td>
   <td><a href="https://www.acmicpc.net/problem/7662">7662 이중우선순위큐</a></td> 
 </tr>  
