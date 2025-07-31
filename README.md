@@ -94,6 +94,7 @@
   <th>2</th>
   <th>3</th>
   <th>4</th>
+  <th>5</th>
 </tr>
 <tr>
   <td>1주 [6/1 ~ 6/8] - 스택</td>
@@ -117,10 +118,25 @@
   <td>4주 [7/14 ~ 7/20] - 힙2</td>
   <td><a href="https://www.acmicpc.net/problem/11286">✅ 11286 절댓값 힙 복습</a></td>
   <td><a href="https://www.acmicpc.net/problem/1715">✅ 1715 카드 정렬하기</a></td>
-  <td><a href="https://www.acmicpc.net/problem/11000">11000 강의실 배정</a></td>
-  <td><a href="https://www.acmicpc.net/problem/7662">7662 이중우선순위큐</a></td> 
+  <td><a href="https://www.acmicpc.net/problem/11000">✅ 11000 강의실 배정</a></td>
 </tr>  
+<tr>
+  <td>5주 [7/21 ~ 7/27] - 힙3 & 우선순위 큐</td>
+  <td><a href="https://www.acmicpc.net/problem/1715">✅ 1715 카드 정렬하기 복습</a></td>
+  <td><a href="https://www.acmicpc.net/problem/11000">✅ 11000 강의실 배정 복습</a></td>
+  <td><a href="https://www.acmicpc.net/problem/7662">✅ 7662 이중우선순위큐</a></td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42626">✅ 더 맵게</a></td> 
+</tr>  
+<tr>
+  <td>4주 [7/28 ~ 8/3] - 해시</td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627">디스크 컨트롤러</a></td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576">완주하지 못한 선수</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">폰켓몬</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577">전화번호 목록</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">의상</a></td> 
+</tr>
   </table>
+  
 <!-- <tr>
   <td>4주 [7/14 ~ 7/20] - 해시</td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576">완주하지 못한 선수</a></td>
