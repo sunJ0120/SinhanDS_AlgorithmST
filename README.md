@@ -71,7 +71,19 @@
       </a>
     </td>
   </tr>
-  <tr><td><div align="center">4</div></td><td>해시</td></tr>
+  <tr>
+    <td>
+      <div align="center">4</div>
+    </td>
+    <td>
+      해시
+    </td>
+    <td>
+      <a href="https://humdrum-lobster-dc7.notion.site/14-2415ce67581980e7a8f1f3c56670297b?source=copy_link">
+        14. 해싱
+      </a>
+    </td>
+  </tr>
   <tr><td><div align="center">5</div></td><td>재귀&정렬</td></tr>
   <tr><td><div align="center">6</div></td><td>완전탐색(브루트포스)</td></tr>
   <tr><td><div align="center">7</div></td><td>그리디</td></tr>
@@ -129,10 +141,10 @@
 </tr>  
 <tr>
   <td>4주 [7/28 ~ 8/3] - 해시</td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627">디스크 컨트롤러</a></td> 
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576">완주하지 못한 선수</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">폰켓몬</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577">전화번호 목록</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627">✅ 디스크 컨트롤러</a></td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576">✅ 완주하지 못한 선수</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">✅ 폰켓몬</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577">✅ 전화번호 목록</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">의상</a></td> 
 </tr>
   </table>
