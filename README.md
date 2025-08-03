@@ -145,26 +145,18 @@
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576">✅ 완주하지 못한 선수</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">✅ 폰켓몬</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577">✅ 전화번호 목록</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">의상</a></td> 
-</tr>
-  </table>
-  
-<!-- <tr>
-  <td>4주 [7/14 ~ 7/20] - 해시</td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576">완주하지 못한 선수</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">폰켓몬</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577">전화번호 목록</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">의상</a></td> 
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579">베스트앨범</a></td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">✅ 의상</a></td> 
 </tr>
 <tr>
-  <td>5주 [7/21 ~ 7/27] - 재귀 & 정렬</td>
+  <td>5주 [8/4 ~ 8/10] - 재귀 & 정렬</td>
   <td><a href="https://www.acmicpc.net/problem/25501">25501 재귀의 귀재</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12946">하노이의 탑</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68936">쿼드압축 후 개수 세기</a></td>
   <td><a href="https://www.acmicpc.net/problem/2750">2750 수 정렬하기</a></td> 
   <td><a href="https://www.acmicpc.net/problem/1427">1427 소트인사이드</a></td> 
 </tr>
+</table>
+<!-- 
 <tr>
   <td>6주 [7/28 ~ 8/3] - 정렬</td>
   <td><a href="https://www.acmicpc.net/problem/11399">11399 ATM</a></td>
