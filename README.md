@@ -149,10 +149,10 @@
 </tr>
 <tr>
   <td>5주 [8/4 ~ 8/10] - 재귀 & 정렬</td>
-  <td><a href="https://www.acmicpc.net/problem/25501">25501 재귀의 귀재</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12946">하노이의 탑</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68936">쿼드압축 후 개수 세기</a></td>
-  <td><a href="https://www.acmicpc.net/problem/1427">1427 소트인사이드</a></td> 
+  <td><a href="https://www.acmicpc.net/problem/25501">✅ 25501 재귀의 귀재</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12946">✅ 하노이의 탑</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68936">✅ 쿼드압축 후 개수 세기</a></td>
+  <td><a href="https://www.acmicpc.net/problem/1427">✅ 1427 소트인사이드</a></td> 
 </tr>
 <tr>
   <td>6주 [8/11 ~ 8/17] - 정렬2</td>
