@@ -152,16 +152,23 @@
   <td><a href="https://www.acmicpc.net/problem/25501">25501 재귀의 귀재</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12946">하노이의 탑</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68936">쿼드압축 후 개수 세기</a></td>
-  <td><a href="https://www.acmicpc.net/problem/2750">2750 수 정렬하기</a></td> 
   <td><a href="https://www.acmicpc.net/problem/1427">1427 소트인사이드</a></td> 
 </tr>
 <tr>
-  <td>6주 [8/4 ~ 8/10] - 정렬2</td>
+  <td>6주 [8/11 ~ 8/17] - 정렬2</td>
   <td><a href="https://www.acmicpc.net/problem/11399">11399 ATM</a></td>
   <td><a href="https://www.acmicpc.net/problem/11004">11004 K번째 수</a></td>
   <td><a href="https://www.acmicpc.net/problem/2751">2751 수 정렬하기2</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">K번째수</a></td> 
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644">두 개 뽑아서 더하기</a></td> 
+</tr>
+<tr>
+  <td>7주 [8/11 ~ 8/17] - 정렬3</td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747">H-index</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12917">문자열 내림차순으로 배치하기</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12915">문자열 내 마음대로 정렬하기</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686">파일명 정렬</a></td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746">가장 큰 수</a></td> 
 </tr>
 </table>
 <!-- 
