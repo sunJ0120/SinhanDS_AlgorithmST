@@ -43,7 +43,7 @@ public class Solution7_1 {
             return;
         }
 
-        hanoi(start, mid, end, cnt-1);
+        hanoi(start, mid, end,    cnt-1);
         int[] go = {start,end};
         res.add(go); //하나씩 이동하는 것을 추가한다.
         hanoi(mid, end, start, cnt-1);
