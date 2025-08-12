@@ -156,11 +156,11 @@
 </tr>
 <tr>
   <td>6주 [8/11 ~ 8/17] - 정렬2</td>
-  <td><a href="https://www.acmicpc.net/problem/11399">11399 ATM</a></td>
-  <td><a href="https://www.acmicpc.net/problem/11004">11004 K번째 수</a></td>
-  <td><a href="https://www.acmicpc.net/problem/2751">2751 수 정렬하기2</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">K번째수</a></td> 
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644">두 개 뽑아서 더하기</a></td> 
+  <td><a href="https://www.acmicpc.net/problem/11399">✅ 11399 ATM</a></td>
+  <td><a href="https://www.acmicpc.net/problem/11004">✅ 11004 K번째 수</a></td>
+  <td><a href="https://www.acmicpc.net/problem/2751">✅ 2751 수 정렬하기2</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">✅ K번째수</a></td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644">✅ 두 개 뽑아서 더하기</a></td> 
 </tr>
 <tr>
   <td>7주 [8/11 ~ 8/17] - 정렬3</td>
