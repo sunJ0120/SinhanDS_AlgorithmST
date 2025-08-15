@@ -156,51 +156,41 @@
 </tr>
 <tr>
   <td>6주 [8/11 ~ 8/17] - 정렬2</td>
-  <td><a href="https://www.acmicpc.net/problem/11399">11399 ATM</a></td>
-  <td><a href="https://www.acmicpc.net/problem/11004">11004 K번째 수</a></td>
-  <td><a href="https://www.acmicpc.net/problem/2751">2751 수 정렬하기2</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">K번째수</a></td> 
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644">두 개 뽑아서 더하기</a></td> 
+  <td><a href="https://www.acmicpc.net/problem/11399">✅ 11399 ATM</a></td>
+  <td><a href="https://www.acmicpc.net/problem/11004">✅ 11004 K번째 수</a></td>
+  <td><a href="https://www.acmicpc.net/problem/2751">✅ 2751 수 정렬하기2</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">✅ K번째수</a></td> 
 </tr>
 <tr>
-  <td>7주 [8/11 ~ 8/17] - 정렬3</td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747">H-index</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12917">문자열 내림차순으로 배치하기</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12915">문자열 내 마음대로 정렬하기</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686">파일명 정렬</a></td> 
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746">가장 큰 수</a></td> 
-</tr>
-</table>
-<!-- 
-<tr>
-  <td>7주 [8/4 ~ 8/10] - 정렬</td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747">H-index</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12917">문자열 내림차순으로 배치하기</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12915">문자열 내 마음대로 정렬하기</a></td>
+  <td>7주 [8/11 ~ 8/15] - 정렬3</td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644">✅ 두 개 뽑아서 더하기</a></td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747">✅ H-index</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686">파일명 정렬</a></td> 
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746">가장 큰 수</a></td> 
 </tr>
 <tr>
-  <td>8주 [8/11 ~ 8/17] - 완전 탐색 알고리즘</td>
+  <td>8주 [8/16 ~ 8/22] - 완전 탐색 알고리즘</td>
   <td><a href="https://www.acmicpc.net/problem/1145">1145 적어도 대부분의 배수</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842">카펫</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839">소수 찾기</a></td> 
 </tr>
 <tr>
-  <td>9주 [8/18 ~ 8/24] - 그리디 알고리즘</td>
+  <td>9주 [8/23 ~ 8/29] - 그리디 알고리즘</td>
   <td><a href="https://www.acmicpc.net/problem/11047">동전 0</a></td>
   <td><a href="https://www.acmicpc.net/problem/1541">잃어버린 괄호</a></td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42862">체육복</a></td>
   <td><a href="https://www.acmicpc.net/problem/1931">회의실 배정</a></td> 
 </tr>
 <tr>
-  <td>10주 [8/25 ~ 8/31] - 수학</td>
+  <td>10주 [8/30 ~ 9/5] - 수학</td>
   <td><a href="https://www.acmicpc.net/problem/2960">에라토스테네스의 체</a></td>
   <td><a href="https://www.acmicpc.net/problem/1934">최소공배수</a></td>
   <td><a href="https://www.acmicpc.net/problem/1850">최대공약수</a></td>
   <td><a href="https://www.acmicpc.net/problem/15651">N과 M</a></td> 
 </tr>
+</table>
+<!-- 
 <tr>
   <td>11주 [9/1 ~ 9/7] - DFS/BFS (1)</td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a></td>
