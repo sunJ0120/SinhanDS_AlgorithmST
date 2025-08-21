@@ -165,16 +165,26 @@
   <td>7주 [8/11 ~ 8/15] - 정렬3</td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644">✅ 두 개 뽑아서 더하기</a></td> 
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747">✅ H-index</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686">파일명 정렬</a></td> 
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746">가장 큰 수</a></td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686">✅ 파일명 정렬</a></td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746">✅ 가장 큰 수</a></td> 
 </tr>
 <tr>
-  <td>8주 [8/16 ~ 8/22] - 완전 탐색 알고리즘</td>
-  <td><a href="https://www.acmicpc.net/problem/1145">1145 적어도 대부분의 배수</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">모의고사</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842">카펫</a></td>
-  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839">소수 찾기</a></td> 
+  <td>8주 [8/16 ~ 8/21] - 완전 탐색 알고리즘</td>
+  <td><a href="https://www.acmicpc.net/problem/1145">✅ 1145 적어도 대부분의 배수</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840">✅ 모의고사</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842">✅ 카펫</a></td>
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839">✅ 소수 찾기</a></td> 
 </tr>
+<tr>
+  <td>9주 [8/22 ~ 8/28] - 완전 탐색 알고리즘 2</td>
+  <td><a href="https://www.acmicpc.net/problem/9663">N-Queen</a></td>
+  <td><a href="https://www.acmicpc.net/problem/14502">연구소</a></td>
+  <td><a href="https://www.acmicpc.net/problem/14889">스타트와 링크</a></td>
+  <td><a href="https://www.acmicpc.net/problem/1182">부분수열의 합</a></td> 
+  <td><a href="https://www.acmicpc.net/problem/1759">암호 만들기</a></td> 
+</tr>
+</table>
+<!-- 
 <tr>
   <td>9주 [8/23 ~ 8/29] - 그리디 알고리즘</td>
   <td><a href="https://www.acmicpc.net/problem/11047">동전 0</a></td>
@@ -189,8 +199,6 @@
   <td><a href="https://www.acmicpc.net/problem/1850">최대공약수</a></td>
   <td><a href="https://www.acmicpc.net/problem/15651">N과 M</a></td> 
 </tr>
-</table>
-<!-- 
 <tr>
   <td>11주 [9/1 ~ 9/7] - DFS/BFS (1)</td>
   <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a></td>
