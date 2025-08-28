@@ -177,11 +177,18 @@
 </tr>
 <tr>
   <td>9주 [8/22 ~ 8/28] - 완전 탐색 알고리즘 2</td>
-  <td><a href="https://www.acmicpc.net/problem/9663">N-Queen</a></td>
-  <td><a href="https://www.acmicpc.net/problem/14502">연구소</a></td>
-  <td><a href="https://www.acmicpc.net/problem/14889">스타트와 링크</a></td>
-  <td><a href="https://www.acmicpc.net/problem/1182">부분수열의 합</a></td> 
+  <td><a href="https://www.acmicpc.net/problem/9663">✅ N-Queen</a></td>
+  <td><a href="https://www.acmicpc.net/problem/14502">✅ 연구소</a></td>
+  <td><a href="https://www.acmicpc.net/problem/14889">✅ 스타트와 링크</a></td>
+  <td><a href="https://www.acmicpc.net/problem/1182">✅ 부분수열의 합</a></td> 
+</tr>
+<tr>
+  <td>10주 [8/29 ~ 9/4] - 완전 탐색 알고리즘 3</td>
   <td><a href="https://www.acmicpc.net/problem/1759">암호 만들기</a></td> 
+  <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42839">[복습] 소수 찾기</a></td> 
+  <td><a href="https://www.acmicpc.net/problem/9663">[복습] N-Queen</a></td>
+  <td><a href="https://www.acmicpc.net/problem/14502">[복습] 연구소</a></td>
+  <td><a href="https://www.acmicpc.net/problem/14889">[복습] 스타트와 링크</a></td>
 </tr>
 </table>
 <!-- 
